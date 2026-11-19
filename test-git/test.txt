@@ -1,5 +1,4 @@
+public void test() {
+    System.out.println("Hello");
+}
 
-1234
-hello github
-
-hello from f1
