@@ -1,4 +1,3 @@
-hello
-this is the test push command
-1234
-hello github
+public void test() {
+    System.out.println("Hello");
+}
